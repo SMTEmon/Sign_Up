@@ -1,7 +1,7 @@
 {
   "name": "package.json",
   "private": true,
-  "homepage": "https://smtemon.github.io/Sign_Up/",
+  "homepage": "https://SMTEmon.github.io/Sign_Up",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
